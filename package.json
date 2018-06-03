@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kwhinnery/todomvc-plusplus.git"
+    "url": "git+https://github.com/kylecollie/todomvc-plusplus.git"
   },
   "keywords": [
     "tutorial",
     "node.js"
   ],
-  "author": "Kevin Whinnery (front end code by Evan You)",
+  "author": "Kyle Collie based on tutorial by Kevin Whinnery (front end code by Evan You)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kwhinnery/todomvc-plusplus/issues"
